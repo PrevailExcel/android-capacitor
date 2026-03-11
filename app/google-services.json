@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350637512497",
+    "project_id": "twowise-91670",
+    "storage_bucket": "twowise-91670.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350637512497:android:2ef43ebc7ad6953cfc0210",
+        "android_client_info": {
+          "package_name": "ng.twowise.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTz4Q8uBXs3rytt0tnzco3axaIghy_m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
